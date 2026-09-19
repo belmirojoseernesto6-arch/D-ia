@@ -1,0 +1,6 @@
+{
+  "name": "ANIME STUDIO PRO",
+  "description": "Gerador de Animes, Séries e Filmes Completos com criação de histórias, personagens DARKCOM, estúdio de vozes, controle de tempo e exportação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
